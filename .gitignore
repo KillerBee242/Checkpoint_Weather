@@ -1,0 +1,7 @@
+.env
+
+node_modules
+
+script copy.js
+
+server.js
